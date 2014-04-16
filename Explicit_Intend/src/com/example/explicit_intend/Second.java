@@ -13,5 +13,8 @@ public class Second extends Activity{
 	        //remote
 	        
 	 }
-
+	public class remote()
+	{
+		
+	}
 }
